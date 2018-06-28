@@ -1,0 +1,3 @@
+[submodule "GPU-Moores-law/microprocessor-trend-data"]
+	path = GPU-Moores-law/microprocessor-trend-data
+	url = https://github.com/guillaume-chevalier/microprocessor-trend-data
