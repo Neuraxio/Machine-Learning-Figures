@@ -1,4 +1,4 @@
-# Machine Learning Figures
+# [Machine Learning Figures](https://github.com/guillaume-chevalier/Machine-Learning-Figures)
 
 ## The Business Process
 
@@ -23,3 +23,4 @@ This figure:
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
+Please [link to this page](https://github.com/guillaume-chevalier/Machine-Learning-Figures) if you use my figures. 
