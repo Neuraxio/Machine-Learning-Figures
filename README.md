@@ -16,6 +16,46 @@ This figure:
 
 ![](https://raw.githubusercontent.com/guillaume-chevalier/microprocessor-trend-data/7bbd582ba1376015f6cf24498f46db62811a2919/42yrs/42-years-processor-trend.png)
 
+## Artificial Neuron
+
+![](artificial-neuron.png)
+
+## Neuron
+
+![](neuron.png)
+
+## Backpropagation Through Time (BPTT)
+
+![](bptt.png)
+
+## Encoder Decoder Seq2Seq
+
+![](encoder-decoder-seq-to-seq.png)
+
+## Gradient Descent Updates
+
+![](gradient_descent_updates.png)
+
+## LSTM formula
+
+![](lstm-formula.png)
+
+## Neural Network
+
+![](neural-network.png)
+
+## Residual neural network (ResNet)
+
+![](res-nets.png)
+
+## RNN architecture
+
+![](rnn-architectures.png)
+
+## Timeline
+
+![](timeline-ai.png)
+
 
 ## License
 
