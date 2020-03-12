@@ -1,5 +1,9 @@
 # [Machine Learning Figures](https://github.com/guillaume-chevalier/Machine-Learning-Figures)
 
+## Timeline
+
+![](timeline-ai.png)
+
 ## The Business Process
 
 ![](machine-learning-business-process.png)
@@ -10,39 +14,25 @@
 
 ## Moore's Law
 
-This figure:
-> Creative Commons Attribution 4.0 International Public License:
-> https://github.com/karlrupp/microprocessor-trend-data/blob/master/LICENSE.txt
+Note that this figure is available under the [Creative Commons Attribution 4.0 International Public (CC BY)](https://github.com/karlrupp/microprocessor-trend-data/blob/master/LICENSE.txt) License.
 
 ![](https://raw.githubusercontent.com/guillaume-chevalier/microprocessor-trend-data/7bbd582ba1376015f6cf24498f46db62811a2919/42yrs/42-years-processor-trend.png)
-
-## Artificial Neuron
-
-![](artificial-neuron.png)
 
 ## Neuron
 
 ![](neuron.png)
 
-## Backpropagation Through Time (BPTT)
+## Artificial Neuron
 
-![](bptt.png)
-
-## Encoder Decoder Seq2Seq
-
-![](encoder-decoder-seq-to-seq.png)
-
-## Gradient Descent Updates
-
-![](gradient_descent_updates.png)
-
-## LSTM formula
-
-![](lstm-formula.png)
+![](artificial-neuron.png)
 
 ## Neural Network
 
 ![](neural-network.png)
+
+## Gradient Descent Updates
+
+![](gradient_descent_updates.png)
 
 ## Residual neural network (ResNet)
 
@@ -52,15 +42,47 @@ This figure:
 
 ![](rnn-architectures.png)
 
-## Timeline
+## LSTM formula
 
-![](timeline-ai.png)
+![](lstm-formula.png)
+
+## Encoder Decoder Seq2Seq
+
+![](encoder-decoder-seq-to-seq.png)
+
+## Backpropagation Through Time (BPTT)
+
+![](bptt.png)
+
+## Effect of data quantity on error
+
+![](data_quantity_on_error.jpg)
+
+## Effect of learning rate on loss
+
+![](learning_rate_effect_on_loss.jpg)
+
+## Effect of model complexity on loss
+
+![](model_complexity_error.jpg)
+
+## Grid Search v.s. Random Search
+
+![](layout_grid.jpg)
+
+![](layout_random.jpg)
+
+![](layout_legend.jpg)
+
+## Hyperband
+
+![](hyperband.jpg)
 
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) License.
 
-Please [link to this page](https://github.com/guillaume-chevalier/Machine-Learning-Figures) if you use my figures. 
+[Link to this page](https://github.com/Neuraxio/Machine-Learning-Figures) to use our figures with citation attributed to Neuraxio.
