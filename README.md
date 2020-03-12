@@ -1,4 +1,4 @@
-# [Machine Learning Figures](https://github.com/guillaume-chevalier/Machine-Learning-Figures)
+# [Machine Learning Figures](https://github.com/Neuraxio/Machine-Learning-Figures)
 
 ## Timeline
 
