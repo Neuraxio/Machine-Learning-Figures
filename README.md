@@ -8,6 +8,10 @@
 
 ![](machine-learning-business-process.png)
 
+## Deployment Loop
+
+![](deployment_loop.jpg)
+
 ## Choosing a model
 
 ![](the-art-of-choosing-a-model.png)
