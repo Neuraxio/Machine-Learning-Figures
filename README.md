@@ -56,6 +56,9 @@ This figure:
 
 ![](timeline-ai.png)
 
+ # Vanishing Gradient Problem
+
+![](vanishing-gradient-problem.png)
 
 ## License
 
